@@ -7,7 +7,7 @@ class person {
     public void setName(String name) {
         this.name = name;
     }
-
+//ВАСЯ ЕЛ ГУСЯ
     @Override
     public String toString() {
         int i = 0;i++;
